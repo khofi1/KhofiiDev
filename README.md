@@ -4,7 +4,7 @@
 - 🌱 **I’m currently learning**: Advanced Lua scripting for FiveM, backend integrations, and optimizing server performance.
 - 💼 **Owner of**:
   - **Six Store**: A specialized store for FiveM resources. Join our community on [Discord](https://discord.gg/ZAMvyqEPJF).
-  - **Miramar RP**: A FiveM roleplay server focused on immersive gameplay and community engagement.
+  - **Melian RP**: A FiveM roleplay server focused on immersive gameplay and community engagement.
 - 💻 **I create**: Custom FiveM scripts and Discord bots tailored to enhance user experience and server functionality.
 - 📫 **How to reach me**: Connect with me via GitHub or join my communities on Discord!
 - 😄 **Pronouns**: He/Him
