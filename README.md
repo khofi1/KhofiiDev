@@ -1,16 +1,28 @@
-# 👋 Hi, I'm @KhofiiDev
+# 👋 ¡Hola! Soy Khofi
 
-- 👀 **I’m interested in**: Full-stack development, game server scripting, and community-building through interactive projects.
-- 🌱 **I’m currently learning**: Advanced Lua scripting for FiveM, backend integrations, and optimizing server performance.
-- 💼 **Owner of**:
-  - **Six Store**: A specialized store for FiveM resources. Join our community on [Discord](https://discord.gg/ZAMvyqEPJF).
-  - **Melian RP**: A FiveM roleplay server focused on immersive gameplay and community engagement.
-- 💻 **I create**: Custom FiveM scripts and Discord bots tailored to enhance user experience and server functionality.
-- 📫 **How to reach me**: Connect with me via GitHub or join my communities on Discord!
-- 😄 **Pronouns**: He/Him
-- ⚡ **Fun fact**: I'm passionate about creating unique experiences within FiveM and love experimenting with new bot features for Discord.
+## 🧠 Desarrollador & Creador de contenido técnico
 
-<!---
-KhofiiDev/KhofiiDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+¡Bienvenido/a a mi perfil de GitHub!  
+Soy Khofi, un apasionado por el desarrollo, la automatización y los sistemas para comunidades roleplay y más allá. Me gusta crear soluciones simples, limpias y útiles.
+
+### 💼 ¿Qué hago?
+- 🔧 Desarrollo scripts para **FiveM**, especialmente con **ESX** y **ox_lib**
+- 🖥️ Diseño interfaces web modernas para dashboards, login panels, y sistemas personalizados
+- ⚙️ Automatizo procesos usando **JavaScript**, **Lua**, y **SQL**
+- 🧩 Creo bots personalizados para **Discord.js**
+
+### 🚀 Tecnologías que uso
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Lua](https://img.shields.io/badge/-Lua-blue?style=flat-square&logo=lua)
+![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
+![MySQL](https://img.shields.io/badge/-MySQL-lightgrey?style=flat-square&logo=mysql)
+
+### 📫 ¿Querés contactarme?
+- E-Mail: `cryyne3@gmail.com`
+- Próximamente más redes...
+
+
+> *Gracias por pasar por mi perfil. ¡Estoy siempre creando algo nuevo!*
+
